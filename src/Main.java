@@ -5,8 +5,8 @@ public class Main {
         //a
         zadanie.input(0);
         zadanie.input(1);
-//        int a = zadanie.wynik();
-//        System.out.println(a);
+        int a = zadanie.wynik();
+        System.out.println(a);
         zadanie.input(0);
         zadanie.input(1);
         //a
@@ -69,12 +69,14 @@ public class Main {
         zadanie.input(1);
         zadanie.input(1);
         zadanie.input(1);
+        a = zadanie.wynik();
+        System.out.println(a);
         zadanie.input(0);
         //d
 
 //
-//        a = zadanie.wynik();
-//        System.out.println(a);
+        a = zadanie.wynik();
+        System.out.println(a);
 
 
     }
